@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/compose-model-1662919611888.xml" value="0.6931407942238267" />
+        <entry key="../../../../layout/compose-model-1662926282887.xml" value="0.264" />
+        <entry key="../../../../layout/compose-model-1662958817713.xml" value="0.3193717277486911" />
+        <entry key="../../../../layout/compose-model-1663238291165.xml" value="0.1175925925925926" />
+        <entry key="../../../../layout/compose-model-1663238415957.xml" value="0.176" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="SuppressKotlinCodeStyleNotification">
+    <option name="disableForAll" value="true" />
+  </component>
+</project>
